@@ -1,0 +1,79 @@
+/* #region Header*/
+
+/* #endregion Header*/
+
+/* #region hero */
+
+/* #endregion hero */
+
+/* #region benefins */
+
+/* #endregion benefits */
+
+/* #region team */
+/* #endregion team */
+
+/* #region portfolio */
+/* #endregion portfolio */
+
+/* #region footer */
+.footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.footer-containet {
+  display: flex;
+  align-items: baseline;
+}
+.footer-logo-text {
+  margin-right: 120px;
+}
+
+.footer-logo-style {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  max-width: 264px;
+}
+
+.footer-icon-div {
+  flex-direction: column;
+  margin-right: 80px;
+}
+
+.footer-p {
+  display: inline-block;
+}
+
+.footer-input {
+  width: 264px;
+}
+
+.footer-input::placeholder {
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.footer-form {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-form-label {
+}
+
+.footer-form {
+}
+
+.footer-form-label {
+}
+
+/* #endregion footer */
+
+/* #region backdrop */
+
+/* #endregion backdrop */
